@@ -1,5 +1,6 @@
 # Payment Card Scan API
-## MobiCard ScanAPI - Java
+## MobiCard ScanAPI - Method 1
+### Java
 
 First, generate a JWT token and request for an access token (CURL). This is a one-time call per scan session.
 
